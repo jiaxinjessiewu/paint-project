@@ -1,0 +1,77 @@
+# Fill in, commit and push each day.
+# Group Member: Yong Hua Chen
+Nov 2, 2016
+	Yesterday :no work done
+	Today     : midterm test
+	Obstacles :
+	
+Nov 3, 2016
+	Yesterday :no work done
+	Today     :prepare for midterm test
+	Obstacles :
+
+Nov 4, 2016
+	Yesterday :no work done
+	Today     :midterm test
+	Obstacles :
+
+Nov 5, 2016
+	Yesterday :no work done
+	Today     :be assigned the user stories and bugs
+	Obstacles :understand the assignment frame.
+
+Nov 6, 2016
+	Yesterday :start the code from User Story6 and User story1 that corporate with groupmates. 
+	Today     :Continue on User Story6 and User Story1.
+	Obstacles :find the correct radius and fix the starting point.
+	
+Nov 7, 2016
+	Yesterday :Finish User Story6 and User Story1.
+	Today     :work on User Story2 and User Story4 that  corporate with groupmates.
+	Obstacles :try to make the feedback for drawing oval and rectangles.
+	
+Nov 8, 2016
+	Yesterday :finish  User Story2 and User Story4 that  corporate with groupmates
+	Today     :work on the User Story 7 and bug1.
+	Obstacles :make the thing work together.
+	
+Nov 9, 2016
+	Yesterday :finish the User Story 7 ,bug1 and bug2.
+	Today     :try to finish the bug3 and 4
+	Obstacles :using design pattern "factory",but some unknown problems happen on branch "usePattern"
+	
+Nov 10, 2016
+	Yesterday :.
+	Today     :assigned to assignment part2.
+	Obstacles :understanding the bug2.4.
+
+Nov 11, 2016
+	Yesterday :start bug2.4
+	Today     :continue bug2.4 and groupmates help each other.
+	Obstacles :strategy design pattern in different shape.
+	
+Nov 12, 2016
+	Yesterday :continue bug2.4.
+	Today     :continue bug2.4 and groupmates help each other.
+	Obstacles :strategy design pattern in different shape.
+	
+Nov 13, 2016
+	Yesterday :continue bug2.4.
+	Today     :continue bug2.4 and groupmates help each other.
+	Obstacles :asking other people how to fix the shape bugs in strategy.
+	
+Nov 14, 2016
+	Yesterday :continue bug2.4.
+	Today     :continue bug2.4 and groupmates help each other.
+	Obstacles :asking ta that whether my work is correct or not.
+	
+Nov 15, 2016
+	Yesterday :continue bug2.4.
+	Today     :groupmates help each other.
+	Obstacles :co-oprate with groupmates with work done.
+	
+Nov 16, 2016
+	Yesterday :merge thing together.
+	Today     :hand in the final work
+	Obstacles :final check the code.
+

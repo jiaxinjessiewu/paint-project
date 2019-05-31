@@ -1,0 +1,76 @@
+# Fill in, commit and push each day.
+# Group Member: Kai Yin, Lai
+Nov 2, 2016
+	Yesterday :
+	Today     :Have to review for the midterm test
+	Obstacles :
+	
+Nov 3, 2016
+	Yesterday :
+	Today     :Have to review for the midterm test
+	Obstacles :
+
+Nov 4, 2016
+	Yesterday :
+	Today     :Have to review for the midterm test
+	Obstacles :
+
+Nov 5, 2016
+	Yesterday :
+	Today     : Added contact information
+	Obstacles :
+
+Nov 6, 2016
+	Yesterday :
+	Today     : Worked on user story 3
+	Obstacles : Had some trouble with user story 4
+	
+Nov 7, 2016
+	Yesterday :
+	Today     : Worked on user story 4
+	Obstacles : Had some trouble with user story 4
+	
+Nov 8, 2016
+	Yesterday :
+	Today     : Worked on user story 4
+	Obstacles :
+	
+Nov 9, 2016
+	Yesterday :
+	Today     : Added line thickness for circles, merged code with team
+	Obstacles :
+	
+Nov 10, 2016
+	Yesterday :
+	Today     :Studied for midterm
+	Obstacles :
+
+Nov 11, 2016
+	Yesterday :
+	Today     :Discussed assginment 2 with my teammates
+	Obstacles :
+	
+Nov 12, 2016
+	Yesterday :
+	Today     :Discussed bug 2.1 with teammates
+	Obstacles :
+	
+Nov 13, 2016
+	Yesterday :
+	Today     :Discussed bug 2.2 with teammates
+	Obstacles :
+	
+Nov 14, 2016
+	Yesterday :
+	Today     :Discussed bug 2.3 with teammates
+	Obstacles :
+	
+Nov 15, 2016
+	Yesterday :
+	Today     :Discuessed bug 2.4 with teammates
+	Obstacles :
+	
+Nov 16, 2016
+	Yesterday :
+	Today     :Merge everything with teammates, finish up the code
+	Obstacles :

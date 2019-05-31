@@ -1,0 +1,77 @@
+# Fill in, commit and push each day.
+# Group Member: Siu Hin U
+
+Nov 2, 2016
+	Yesterday :Have to review for the midterm test
+	Today     :Have to review for the midterm test
+	Obstacles :
+	
+Nov 3, 2016
+	Yesterday :Have to review for the midterm test
+	Today     :Have to review for the midterm test
+	Obstacles :
+
+Nov 4, 2016
+	Yesterday :Have to review for the midterm test
+	Today     :Read code, understand every codes in this assignment, like what they do 
+	Obstacles :
+
+Nov 5, 2016
+	Yesterday :Read code
+	Today     :Create color button and set their action  
+	Obstacles :
+
+Nov 6, 2016
+	Yesterday :Create color button
+	Today     :Thinking how to fix the bug that when I press color button, it change all shapes'color
+	Obstacles :
+	
+Nov 7, 2016
+	Yesterday :Fixing bug
+	Today     :Create size button and set their action 
+	Obstacles :
+	
+Nov 8, 2016
+	Yesterday :Create size button
+	Today     :Connect color and size to other shapes
+	Obstacles :
+	
+Nov 9, 2016
+	Yesterday :
+	Today     :Finish change color and size
+	Obstacles :
+	
+Nov 10, 2016
+	Yesterday :
+	Today     :Read Assignment2 Part2 Details, pull everything and get start.
+	Obstacles :
+
+Nov 11, 2016
+	Yesterday :
+	Today     :Personal reason stop one day.
+	Obstacles :
+
+Nov 12, 2016
+	Yesterday :
+	Today     :Start on Bug 2.3, improving choose drawing mode.
+	Obstacles :
+
+Nov 13, 2016
+	Yesterday :
+	Today     :Continues work on Bug 2.3.
+	Obstacles :
+	
+Nov 14, 2016
+	Yesterday :
+	Today     :Fixing error when running the code
+	Obstacles :
+	
+Nov 15, 2016
+	Yesterday :
+	Today     :Clean the code, delete some rough work.
+	Obstacles :
+	
+Nov 16, 2016
+	Yesterday :
+	Today     :Submit Assignment2
+	Obstacles :

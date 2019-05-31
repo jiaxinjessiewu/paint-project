@@ -1,0 +1,19 @@
+# Please leave your team members contact information here
+
+Member 1:
+Name: Jiaxin(Jessie) Wu
+Email: jx.wu@mail.utoronto.ca
+
+Member 2:
+Name: Kai Yin(Kyle), Lai
+Email:kyle.lai@mail.utoronto.ca
+
+Member 3:
+Name:Siu Hin (Dickson) U 
+Email:siuhin.u@mail.utoronto.ca
+
+Member 4:
+Name:YongHua (Edwin) Chen
+Email:edwinyonghua.chen@mail.utoronto.ca
+
+This is a paint program graphic user interface designed to resemble Microsoft Paint. The program was developed for the Software Programming course (CSC207) at the University of Toronto. The program was developed using Java and utilizes concepts such as Java IO, various Design Patterns (i.e. Model-View-Controller [MVC]), Java OO-Programming, and Swing Components (ie. Frames, JObjects etc.). The project was completed in a team of 4 students and the project progress were managed using the Agile (SCRUM) methodology and GIT.

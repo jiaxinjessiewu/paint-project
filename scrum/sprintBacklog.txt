@@ -1,0 +1,116 @@
+# Copy User Stories from the ProductBacklog 
+# to the appropriate Sprint below, after the 
+# Sprint Planning Meeting.
+
+# Sprint 1 October 6, 2016
+# Sprint 1 Backlog UserStories go below
+
+--------------------------------------------------------------------------
+NAME     : Draw Circle 
+PRIORITY : 1
+ESTIMATE : 8
+AS A     : user
+I WANT   : To click the center of the circle, drag, and release to specify
+           a circle to be drawn in the current style. As the user drags, the 'current'
+           circle changes in real time so that a circle is drawn with
+           centre at users initial circle click, with radius out to
+           the current dragged mouse position.
+SO THAT  : I can add circles to my canvas
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+
+NAME     : Draw Rectangle
+PRIORITY : 2
+ESTIMATE : 8 
+AS A     : user
+I WANT   : To click on one corner of a rectangle, drag, and release to 
+		   specify two corners of a rectangle to be drawn in the current style.
+		   As the user drags, the 'current' rectangle changes in real time so that 
+		   a rectangle is drawn with the start point at users initial rectangle click, 
+		   with width and height at the current dragged mouse position.
+SO THAT  : I can add rectangles to my canvas
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+NAME     : Color selector
+PRIORITY : 3
+ESTIMATE : 8
+AS A     : user
+I WANT   : To be able to select the current drawing color, to be applied
+           to subsequent shapes. Example: 
+           		selects color red 
+           		mode circle
+           		draw a circle
+           		draw a circle
+           		mode rectangle
+           		draw a rectangle
+           		select color green
+           		draw a rectangle
+           		draw a rectangle
+           	results in two red circles and a red rectangle as well as
+           	two green rectangles
+SO THAT  :  I can add two red circles, a red rectangle and
+           	two green rectangles to my canvas
+--------------------------------------------------------------------------
+
+
+# Sprint 2 October 7, 2016
+# Sprint 2 Backlog UserStories go below
+
+--------------------------------------------------------------------------
+NAME     : Fill style selector
+PRIORITY : 4
+ESTIMATE : 4 
+AS A     : user
+I WANT   : To be able to select the current drawing style (filled or outline), to be applied
+           to subsequent shapes. Example: 
+           		selects fill style solid
+           		mode circle
+           		draw a circle
+           		draw a circle
+           		mode rectangle
+           		draw a rectangle
+           		select fill style outline
+           		draw a rectangle
+           		draw a rectangle
+           	results in two solid circles and a solid rectangle as well as
+           	two outlined rectangles
+SO THAT  :	I can add two solid circles and a solid rectangle as well as
+           	two outlined rectangles to my canvas
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+
+NAME     : Line thickness selector
+PRIORITY : 5
+ESTIMATE : 4 
+AS A     : user
+I WANT   : To be able to select the current line thickness, to be applied
+           to subsequent shapes. Example:
+           		select fill style outline 
+           		selects line thickness 1
+           		mode circle
+           		draw a circle
+           		draw a circle
+           		mode rectangle
+           		draw a rectangle
+           		select line thickness 9
+           		draw a rectangle
+           		draw a rectangle
+           	results in two thinly outlined circles and a thinly outlined 
+           	rectangle as well as two thickly outlined rectangles
+SO THAT  :	I can add two thinly outlined circles and a thinly outlined 
+           	rectangle as well as two thickly outlined rectangles to my canvas
+--------------------------------------------------------------------------
+
+# Sprint 3 October 9, 2016
+# Sprint 3 Backlog UserStories go below
+
+--------------------------------------------------------------------------
+NAME     : using design pattern "factory" 
+PRIORITY : 6
+ESTIMATE : 8 
+AS A     : player
+I WANT   : using design pattern "factory",but some unknown problems happen on branch "usePattern"
+SO THAT  :
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+

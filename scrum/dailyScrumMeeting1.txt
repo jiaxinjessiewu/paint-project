@@ -1,0 +1,77 @@
+# Fill in, commit and push each day.
+# Group Member: Jiaxin Wu
+Nov 2, 2016
+	Yesterday :
+	Today     : review for the midterm test
+	Obstacles :
+	
+Nov 3, 2016
+	Yesterday :
+	Today     : review for the midterm test
+	Obstacles :
+
+Nov 4, 2016
+	Yesterday : 
+	Today     : Imported Assignment 2 and update my information.
+	Obstacles :
+
+Nov 5, 2016
+	Yesterday : Imported Assignment 2
+	Today     : Got contact with group, and assigned user stories and bugs.
+	Obstacles :
+
+Nov 6, 2016
+	Yesterday : Worked on user story 1
+	Today     : continue working on user story 1 and started on user story 2
+	Obstacles : can not get the left top point of the circle when drawing the circle
+	
+Nov 7, 2016
+	Yesterday : started on user story 2
+	Today     : Fixed user story 1's bug and worked on user story 2 
+	Obstacles : failed in drawing circle while dragging mouse
+	
+Nov 8, 2016
+	Yesterday : Fixed bugs in user story 2
+	Today     : Connect color and size to other shapes
+	Obstacles :
+	
+Nov 9, 2016
+	Yesterday : Connected color and size to other shapes
+	Today     : Finish change color and size and design pattern
+	Obstacles : 
+
+Nov 10, 2016
+	Yesterday : Finished Assignment2 part2
+	Today     : Imported Assignment 2
+	Obstacles : design in command design pattern
+
+Nov 11, 2016
+	Yesterday : Imported Assignment 2
+	Today     : continue fixing bug 2.1
+	Obstacles : design in command design pattern
+
+Nov 12, 2016
+	Yesterday : continued fix bug 2.1
+	Today     : continue fixing bug 2.1, design drawingCommands
+	Obstacles : design in command design pattern
+
+Nov 13, 2016
+	Yesterday : continued fix bug 2.1
+	Today     : finish fixing bug 2.1 and start to check with groupmate
+	Obstacles : fail in running the application
+	
+Nov 14, 2016
+	Yesterday : finished bug 2.1 and checked it
+	Today     : continue fixing bug 2.1 and went to lab for asking for help 
+	Obstacles : command design pattern was not in well structure
+	
+Nov 15, 2016
+	Yesterday : went to lab for asking for help
+	Today     : check other bugs with group
+	Obstacles : fail in drawing polyline
+	
+Nov 16, 2016
+	Yesterday : checked other bugs with group
+	Today     : Finish bugs
+	Obstacles : fail in drawing polyline
+	
